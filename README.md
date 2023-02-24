@@ -1,4 +1,3 @@
-# ha
 blueprint:
   name: Contact Sensor Left Open Notification
   description: "Notifies you when a door or window is left open. 
