@@ -1,13 +1,7 @@
-# Mes, Precio Básico, Precio Intermedio, Precio Excedente
-1, 1.015, 1.239, 3.62    # Enero
-2, 1.015, 1.239, 3.62    # Febrero
-3, 1.015, 1.239, 3.62    # Marzo
-4, 1.015, 1.239, 3.62    # Abril
-5, 1.015, 1.239, 3.62    # Mayo
-6, 1.015, 1.239, 3.62    # Junio
-7, 1.015, 1.239, 3.62    # Julio
-8, 1.015, 1.239, 3.62    # Agosto
-9, 1.015, 1.239, 3.62    # Septiembre
-10, 1.015, 1.239, 3.62   # Octubre
-11, 1.015, 1.239, 3.62   # Noviembre
-12, 1.015, 1.239, 3.62   # Diciembre
+# Bimestre, Precio Básico, Precio Intermedio, Precio Excedente
+1, 1.015, 1.239, 3.62    # Diciembre-Enero
+2, 0.915, 1.059, 3.646    # Febrero-Abril
+3, 0.921, 1.067, 3.672    # Abril-Junio
+4, 0.927, 1.075, 3.698    # Junio-Agosto
+5, 1.047, 1.271, 3.724    # Agosto-Octubre
+6, 1.055, 1.280, 3.75    # Octubre-Diciembre
